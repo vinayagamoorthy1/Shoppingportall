@@ -1,0 +1,13 @@
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\model\User.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\impl\UserDAOImpl.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\impl\ProductDAOImpl.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\Applicationconfig\ApplicationContextconfig.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\model\Supplier.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\model\Category.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\CategoryDAO.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\UserDAO.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\impl\CategoryDAOImpl.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\SupplierDAO.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\impl\SupplierDAOImpl.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\model\Product.java
+F:\workspace new\backend\src\main\java\com\niit\shoppingcart\dao\ProductDAO.java
